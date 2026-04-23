@@ -63,3 +63,13 @@ Visual results
 Professional documentation
 Working examples
 CSV export
+
+
+
+
+
+SMT Divergence occurs when two positively correlated instruments fail to move in sync at key structural levels. This mismatch suggests that "Smart Money" is accumulating or distributing positions in one asset while the other continues to follow retail momentum.
+
+Bearish SMT: Asset A makes a Higher High, while Asset B makes a Lower High.
+
+Bullish SMT: Asset A makes a Lower Low, while Asset B makes a Higher Low.
