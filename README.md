@@ -89,3 +89,13 @@ Profit factor: 2.44
 Total signals: 1,247
 Success rate: 98%+
 Average confidence: 80%+
+
+
+
+
+DONTS: 
+Overtrade (chase FOMO signals)
+Risk more than 2% per trade
+Ignore drawdown warnings
+Trade through major news
+Modify core logic without testing
