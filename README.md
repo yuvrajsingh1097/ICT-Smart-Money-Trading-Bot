@@ -88,7 +88,7 @@ Win rate: 71%
 Profit factor: 2.44
 Total signals: 1,247
 Success rate: 98%+
-Average confidence: 80%+
+Average confidence: 80%+++;
 
 
 
