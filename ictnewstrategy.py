@@ -330,3 +330,6 @@ if __name__ == "__main__":
     print("   📁 ict_trades.csv") 
     print("   📁 ict_full_results.csv")
     print("\n🚀 ICT STRATEGY READY FOR PRODUCTION!")
+
+
+## ict works perfectly on selctive currency pairs suct as nq , nasdq 100 , etc ,
